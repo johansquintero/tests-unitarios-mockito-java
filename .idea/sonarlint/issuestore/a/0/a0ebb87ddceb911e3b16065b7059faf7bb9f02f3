@@ -1,0 +1,19 @@
+
+
+java:S1192"JDefine a constant instead of duplicating this literal "Delantero" 4 times.(ı¶¯ç8üÂÒ—Š2J$aac8cfe2-ff7c-4b90-a2be-005fd988233b
+
+java:S4973%"<Strings and Boxed types should be compared using "equals()".(Î¼ß˜8ÕÛ†ª‰2J$8dfa2211-8ed3-4293-88be-fd7dd6bef36d
+„
+java:S49730"<Strings and Boxed types should be compared using "equals()".(‰Æ‹øÿÿÿÿ8ÖÛ†ª‰2J$faf350b4-1bbe-4a24-8c1e-0fa81c096b3c
+„
+java:S4973;"<Strings and Boxed types should be compared using "equals()".(ãÍêÑÿÿÿÿÿ8ÖÛ†ª‰2J$53d7e9c3-460e-43c1-8352-340ce18c8db2
+„
+java:S4973@"<Strings and Boxed types should be compared using "equals()".(ÓŠíÚøÿÿÿÿ8ÖÛ†ª‰2J$a52d7fc0-b832-4a84-ae6a-891369c45234
+„
+java:S4973J"<Strings and Boxed types should be compared using "equals()".(äÜ¸ûÿÿÿÿ8ÖÛ†ª‰2J$d6532966-5695-43ea-b450-59b7b12e0538
+]	java:S125"<This block of commented-out lines of code should be removed.(ã®Òæùÿÿÿÿ8ë“Ö—Š2
+m	java:S106"+Replace this use of System.out by a logger.(Ç¸Ââ8åÛ†ª‰2J$7408e18f-fd68-423d-b54c-7390c755b2d0
+r	java:S106$"+Replace this use of System.out by a logger.(¢ÜĞÔÿÿÿÿÿ8çÛ†ª‰2J$76294aae-f2fc-4bd9-9190-1fe38fbe9642
+m	java:S106*"+Replace this use of System.out by a logger.(Ş‚øÙ8éÛ†ª‰2J$11361030-98f5-475b-95d1-c7ac49228fc6
+r	java:S1065"+Replace this use of System.out by a logger.(µæ½Ûúÿÿÿÿ8íÛ†ª‰2J$26d4e12e-8191-46ba-b4dd-fb7b6b44b944
+r	java:S106E"+Replace this use of System.out by a logger.(ÆÏ‰šüÿÿÿÿ8Û¢ëó‰2J$4697460f-d8cb-4647-a64f-fb6d23739e6c
